@@ -1,2 +1,2 @@
-Gulshan Pagdiwala
-Front-end developer
+name: Gulshan Pagdiwala
+course: Front-end developer
